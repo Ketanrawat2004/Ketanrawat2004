@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💫 About Me:
+Hey! I'm Ketan — a final year ECE undergrad at NIT Jamshedpur who somehow ended up more in love with building web apps than circuits 😄<br><br>I build full-stack products using the MERN stack, with a focus on things that actually work and don't fall apart under real usage. I care a lot about clean code, good UX, and shipping stuff that solves a real problem.<br><br>Currently deep into full-stack development, exploring scalable architectures and cloud deployment. Also a national finalist at Nothing Incubator 2025 — out of 10,450+ teams — which was honestly one of the coolest things I've been part of.<br><br>When I'm not coding, I'm probably designing something for our college's Dramatics Society or leading creative direction at the Soft Skills Club.<br><br>📫 Reach me: Krishnapex1@gmail.com<br><br>MERN Stack Developer · NIT Jamshedpur · Nothing Incubator 2025 Finalist (Top 15/10,450+)<br><br>Languages:     C · C++ · JavaScript (ES6+)<br>Frontend:      HTML5 · CSS3 · React.js · Responsive Design · REST APIs<br>Backend:       Node.js · Express.js · MongoDB<br>Tools:         Git · GitHub · VS Code · Postman · Hoppscotch<br>Deploy:        Vercel · Netlify<br>DB:            MongoDB · MySQL (basics)<br>Concepts:      DSA · OOP · MVC Architecture<br><br>🛒 Bookztron<br>A full-stack e-commerce app for books built with the MERN stack. Has auth, product search, cart, wishlist, Razorpay payment integration, and order tracking. Deployed on Vercel + Netlify.<br>→ https://bookztron-dev-branch.netlify.app/<br><br>🎓 Pariksha<br>An AI-powered exam integrity platform with candidate verification workflows and a clean React + TypeScript frontend. Built to make online assessments more transparent and tamper-resistant.<br>→ https://pariksha-platform.lovable.app/<br><br>🥇 Nothing Incubator 2025 — National Finalist (Top 15 of 10,450+ teams)<br>   Organized by Nothing Tech & Unstop. Pitched a tech product concept at the national level.<br><br>🏏 SupeRR Selector Hackathon — Rajasthan Royals (Unstop)<br>   Ranked in Additional Top 20 out of 7,500+ participants.<br>   Contributed to auction strategy analysis and team decision scenarios.<br><br>- Effective Communication — TCS iON<br>- CSS — HackerRank<br>- Frontend Development — Oneroadmap<br><br>- 🎭 Creative Editor at Dramatics Society (Team Aahwan) — I design posters and manage stage visuals for theatre productions<br>- 🎤 Led creative direction for the Soft Skills & Public Speaking Club at NIT JSR<br>- 🌱 Currently learning: system design, cloud architecture, TypeScript deeper dives<br>- 👁️ Low vision (40%) — adaptive by nature, collaborative by choice<br>- ⚡ Fun fact: I started in ECE and ended up building full-stack web apps. No regrets.
 
-<!--
-**Ketanrawat2004/Ketanrawat2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ketanrawat.nitjsr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ketan-rawat-97a8aa2a0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnapex1@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ketanrawat2004&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ketanrawat2004&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ketanrawat2004&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ketanrawat2004&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ketanrawat2004&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=Ketanrawat2004&icon=8&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
